@@ -1,4 +1,4 @@
-const contractAddress = "0x0fDE4a9A2560219745F58884D1ed33a0637652Cc"; //Replace with your own contract address
+const contractAddress = "0xb8d0e8969820f2249794B266212C9b3EEE0Df5b5"; //Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the OmniApes!!";
@@ -13,7 +13,7 @@ const p_presale_coming_soon = "We are working hard to launch the NFT Collection.
 const p_presale_mint_not_whitelisted = "You are not whitelisted for the pre-sale.. 😢";
 const p_presale_mint_whitelisted = "You're on the whitelist for the pre-sale! 🎉";
 const p_presale_mint_already_minted = "You've already claimed your whitelist mint. Thank you! 🎉";
-const p_public_mint = "No whitelist needed. Public minting is now open! 🎉";
+const p_public_mint = "Mint your OmniApe now! 🎉";
 const button_presale_coming_soon = "Get on the Whitelist";
 const button_presale_mint_whitelisted = "Mint Your Special NFT";
 const button_presale_mint_not_whitelisted = "Get on the Whitelist";
